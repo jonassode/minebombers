@@ -10,6 +10,7 @@ npm start
 
 Testing the client
 
+cd client
 npm install --global http-server
 http-server index.html 
 
