@@ -1,0 +1,24 @@
+{
+  "name": "minebombers",
+  "version": "1.0.0",
+  "description": "Online version of the classic minebombers game",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonassode/minebombers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonassode/minebombers/issues"
+  },
+  "homepage": "https://github.com/jonassode/minebombers#readme"
+}
